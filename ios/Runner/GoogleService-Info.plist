@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808135681793-p4msss8mha6lt18uk2rn9krrsg61p231.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808135681793-p4msss8mha6lt18uk2rn9krrsg61p231</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>808135681793-hi4fiquhiul73ll4liatlk3p9movi6dr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATb5KQAXCY4uU_slfXVxLY94c8l4SdKdQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808135681793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.nasaspaceappssarawak</string>
+	<key>PROJECT_ID</key>
+	<string>nasa-space-apps-sarawak-gtqkte</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nasa-space-apps-sarawak-gtqkte.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808135681793:ios:e3c00fd2da54ea137a5d00</string>
+</dict>
+</plist>

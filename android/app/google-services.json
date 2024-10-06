@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "808135681793",
+    "project_id": "nasa-space-apps-sarawak-gtqkte",
+    "storage_bucket": "nasa-space-apps-sarawak-gtqkte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808135681793:android:b3a789fdaefc7fc97a5d00",
+        "android_client_info": {
+          "package_name": "com.mycompany.nasaspaceappssarawak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808135681793-hi4fiquhiul73ll4liatlk3p9movi6dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.nasaspaceappssarawak",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "808135681793-46340cdh7sbaghaoegilb67bhv96kg9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQN9MHZ44KqTiBZw6vbAxyYz8KQEBJfgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808135681793-46340cdh7sbaghaoegilb67bhv96kg9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808135681793-p4msss8mha6lt18uk2rn9krrsg61p231.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.nasaspaceappssarawak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
